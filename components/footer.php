@@ -23,9 +23,8 @@
          <a href="tel:1234567890"><i class="fas fa-phone"></i> +123 456 7899</a>
          <a href="tel:11122233333"><i class="fas fa-phone"></i> +111 222 3333</a>
          <a href="mailto:spmart51@gmail.com"><i class="fas fa-envelope"></i> spmart51@gmail.com</a>
-         <a href="https://www.google.com/myplace"><i class="fas fa-map-marker-alt"></i> Karnataka, india  </a>
+         <a href="https://www.google.com/myplace"><i class="fas fa-map-marker-alt"></i>Karnataka, india  </a>
       </div>
-
       <div class="box">
          <h3>follow us</h3>
          <a href="#"><i class="fab fa-facebook-f"></i>facebook</a>
